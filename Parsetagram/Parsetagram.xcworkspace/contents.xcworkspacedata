@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../instagram_assets"
+      name = "instagram_assets">
+      <FileRef
+         location = "group:insta_camera_btn@3x.png">
+      </FileRef>
+      <FileRef
+         location = "group:insta_camera_btn.png">
+      </FileRef>
+      <FileRef
+         location = "group:image_placeholder@2x.png">
+      </FileRef>
+      <FileRef
+         location = "group:image_placeholder@3x.png">
+      </FileRef>
+      <FileRef
+         location = "group:profile_tab.png">
+      </FileRef>
+      <FileRef
+         location = "group:insta_camera_btn@2x.png">
+      </FileRef>
+      <FileRef
+         location = "group:feed_tab@3x.png">
+      </FileRef>
+      <FileRef
+         location = "group:profile_tab@2x.png">
+      </FileRef>
+      <FileRef
+         location = "group:image_placeholder.png">
+      </FileRef>
+      <FileRef
+         location = "group:profile_tab@3x.png">
+      </FileRef>
+      <FileRef
+         location = "group:feed_tab@2x.png">
+      </FileRef>
+      <FileRef
+         location = "group:feed_tab.png">
+      </FileRef>
+      <Group
+         location = "group:App Icon"
+         name = "App Icon">
+         <FileRef
+            location = "group:Icon-60@3x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Icon-60@2x.png">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:instagram_logo.png">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Parsetagram.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
