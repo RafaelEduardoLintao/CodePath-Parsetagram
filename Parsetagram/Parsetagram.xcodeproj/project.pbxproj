@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C25277E27D5815000440BCB /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C25277D27D5815000440BCB /* CameraViewController.swift */; };
 		2C87957827D45EFA009F3E39 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C87957727D45EFA009F3E39 /* AppDelegate.swift */; };
 		2C87957A27D45EFA009F3E39 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C87957927D45EFA009F3E39 /* SceneDelegate.swift */; };
 		2C87957F27D45EFA009F3E39 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C87957D27D45EFA009F3E39 /* Main.storyboard */; };
@@ -41,6 +42,7 @@
 
 /* Begin PBXFileReference section */
 		0FAE5108609F5F9F25CD4665 /* Pods-ParsetagramTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ParsetagramTests.release.xcconfig"; path = "Target Support Files/Pods-ParsetagramTests/Pods-ParsetagramTests.release.xcconfig"; sourceTree = "<group>"; };
+		2C25277D27D5815000440BCB /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		2C87957427D45EFA009F3E39 /* Parsetagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parsetagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C87957727D45EFA009F3E39 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2C87957927D45EFA009F3E39 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -126,6 +128,7 @@
 				2C87958527D45EFD009F3E39 /* Info.plist */,
 				2C8795A727D468A6009F3E39 /* LoginViewController.swift */,
 				2C8795A927D468B2009F3E39 /* FeedViewController.swift */,
+				2C25277D27D5815000440BCB /* CameraViewController.swift */,
 			);
 			path = Parsetagram;
 			sourceTree = "<group>";
@@ -410,6 +413,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C8795A827D468A6009F3E39 /* LoginViewController.swift in Sources */,
+				2C25277E27D5815000440BCB /* CameraViewController.swift in Sources */,
 				2C87957827D45EFA009F3E39 /* AppDelegate.swift in Sources */,
 				2C8795AA27D468B2009F3E39 /* FeedViewController.swift in Sources */,
 				2C87957A27D45EFA009F3E39 /* SceneDelegate.swift in Sources */,
